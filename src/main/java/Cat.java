@@ -1,5 +1,6 @@
 public class Cat {
 
+
     private String message;
 
     public String getMessage() {
